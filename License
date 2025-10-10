@@ -1,0 +1,19 @@
+---
+
+## Badges
+
+Add helpful visual cues with Shields.io (e.g., status, docs, license). The badges at the top are examples; customise or add more using Shields’ builder. :contentReference[oaicite:12]{index=12}.
+
+---
+
+## Attributions
+
+- **Author:** Adil Osman
+- **Course/Context:** Systems Analysis & Design II.
+- **Primary source document:** `docs/Osman_Adil_13199246.pdf` (requirements, models, ops). :contentReference[oaicite:13]{index=13}
+
+---
+
+## Contributing
+
+This is primarily a portfolio repo. If you spot a typo or want to suggest an improvement, feel free to open an issue or PR. Consider adding a short **CODE_OF_CONDUCT.md** and **CONTRIBUTING.md** if you intend to accept external contributions. :contentReference[oaicite:14]{index=14}.
