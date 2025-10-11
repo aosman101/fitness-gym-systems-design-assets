@@ -6,7 +6,7 @@
 
 A curated gallery of systems analysis & design artefacts for a **Gym Information System**: UML class & use-case diagrams, CRC cards, relational schema, a broker class, UI flow, and a high-level UI prototype. These materials come from my Systems Analysis & Design work and are organised for easy review.
 
-The scope covers membership & payments, access control, class scheduling, equipment maintenance, reports, and a friendly UI for staff and members. :contentReference[oaicite:0]{index=0}
+The scope covers membership & payments, access control, class scheduling, equipment maintenance, reports, and a friendly UI for staff and members. :contentReference[oaicite:0]{index=0}.
 
 ---
 
@@ -14,24 +14,24 @@ The scope covers membership & payments, access control, class scheduling, equipm
 
 ├── diagrams/
 
-│ ├── Use Case Diagram Q.2 Part 1.png
+│ ├── Use Case Diagram
 
-│ ├── UML Class Diagram Q.1 Part 2.png
+│ ├── UML Class Diagram
 
-│ ├── Gym System Relational Schema.png
+│ ├── Gym System Relational Schema
 
 │ ├── GymStaff Broker Class.png
 
-│ ├── 2 CRC Cards Equipments & Classes.png
+│ ├── 2 CRC Cards Equipment & Classes
 
-│ ├── 2 CRC Cards Gym staff & member.png
+│ ├── 2 CRC Cards Gym staff & member
 
-│ ├── 2 CRC Cards Membership plan.png
+│ ├── 2 CRC Cards Membership plan
 
-│ └── 2 CRC Cards Trainer & Payments.png
+│ └── 2 CRC Cards Trainer & Payments
 
 ├── ui/
 
-│ ├── UI Flow Diagram.png
+│ ├── UI Flow Diagram
 
-│ └── UI Prototype.png
+│ └── UI Prototype
