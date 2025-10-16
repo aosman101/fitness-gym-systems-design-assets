@@ -34,7 +34,6 @@ Sending automated alerts for upcoming classes, renewals, or gym announcements.
 
 💻 User Experience
 A friendly and intuitive interface for both gym staff and members, with potential for mobile and online integration. 
-:contentReference[oaicite:0]{index=0}.
 
 ---
 
