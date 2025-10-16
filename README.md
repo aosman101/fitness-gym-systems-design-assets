@@ -1,37 +1,67 @@
-# fitness-gym-systems-design-assets
+## fitness-gym-systems-design-assets
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![made-with](https://img.shields.io/badge/made%20with-UML%20%26%20Wireframes-lightgrey)
 ![license](https://img.shields.io/badge/license-CC%20BY%204.0-blue)
 
-A curated gallery of systems analysis & design artefacts for a **Gym Information System**: UML class & use-case diagrams, CRC cards, relational schema, a broker class, UI flow, and a high-level UI prototype. These materials come from my Systems Analysis & Design work and are organised for easy review.
+## Overview
 
-The scope covers membership & payments, access control, class scheduling, equipment maintenance, reports, and a friendly UI for staff and members. :contentReference[oaicite:0]{index=0}.
+This repository serves as a curated gallery of Systems Analysis & Design artefacts for a Gym Information System, which I developed independently after studying Systems Analysis and Design at university. It showcases the complete design lifecycle—from requirements gathering to UI design—and offers an integrated perspective on how analytical and modelling techniques are utilised to create robust information systems.
+
+The artefacts featured include UML class and use case diagrams, CRC cards, relational schema, a broker class, UI flow, and a high-level prototype, effectively illustrating both the conceptual and technical dimensions of the system.
+
+📘 Project Scope
+
+The Fitness First Gym System supports a comprehensive set of functionalities for managing:
+
+🧾 Membership & Payments
+Registration, renewal, and tracking of member accounts and payments.
+
+🔐 Access Control
+Secure entry management ensuring only authorised members can access facilities.
+
+📅 Class & Training Scheduling
+Planning and booking of fitness classes and personal training sessions.
+
+🏋️ Equipment Management
+Inventory tracking, maintenance scheduling, and usage reporting.
+
+📈 Reporting & Analytics
+Generating insights on attendance, class participation, and revenue.
+
+💬 Notifications & Communication
+Sending automated alerts for upcoming classes, renewals, or gym announcements.
+
+💻 User Experience
+A friendly and intuitive interface for both gym staff and members, with potential for mobile and online integration. 
+:contentReference[oaicite:0]{index=0}.
 
 ---
 
 ## Contents
 
-├── diagrams/
+📂 Gym-Information-System/
 
-│ ├── Use Case Diagram
+├── 📘 Osman_Adil_13199246.pdf # Full report (requirements, pseudo-code, analysis).
 
-│ ├── UML Class Diagram
+├── 🖼 UML Class Diagram.
 
-│ ├── Gym System Relational Schema
+├── 🖼 Use Case Diagram.
 
-│ ├── GymStaff Broker Class.png
+├── 🖼 2 CRC Cards Gym staff & member.
 
-│ ├── 2 CRC Cards Equipment & Classes
+├── 🖼 2 CRC Cards Membership plan.
 
-│ ├── 2 CRC Cards Gym staff & member
+├── 🖼 2 CRC Cards Trainer & Payments.
 
-│ ├── 2 CRC Cards Membership plan
+├── 🖼 2 CRC Cards Equipments & Classes.
 
-│ └── 2 CRC Cards Trainer & Payments
+├── 🖼 Gym System Relational Schema.
 
-├── ui/
+├── 🖼 GymStaff Broker Class.
 
-│ ├── UI Flow Diagram
+├── 🖼 UI Flow Diagram.
 
-│ └── UI Prototype
+├── 🖼 UI Prototype.
+
+└── 📄 README.md
