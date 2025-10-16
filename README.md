@@ -41,7 +41,7 @@ A friendly and intuitive interface for both gym staff and members, with potentia
 
 📂 Gym-Information-System/
 
-├── 📘 Osman_Adil_13199246.pdf # Full report (requirements, pseudo-code, analysis).
+├── 📘 Fitness-Gym-File.pdf # Full report (requirements, pseudo-code, analysis).
 
 ├── 🖼 UML Class Diagram.
 
