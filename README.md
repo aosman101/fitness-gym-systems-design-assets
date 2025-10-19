@@ -8,7 +8,7 @@
 
 This repository serves as a curated gallery of Systems Analysis & Design artefacts for a Gym Information System, which I developed independently after studying Systems Analysis and Design at university. It showcases the complete design lifecycle—from requirements gathering to UI design—and offers an integrated perspective on how analytical and modelling techniques are utilised to create robust information systems.
 
-The artefacts featured include UML class and use case diagrams, CRC cards, relational schema, a broker class, UI flow, and a high-level prototype, effectively illustrating both the conceptual and technical dimensions of the system.
+The artefacts highlighted include UML class and use case diagrams, CRC cards, relational schemas, a broker class, UI flow, and a high-level prototype, effectively demonstrating both the conceptual and technical aspects of the system.
 
 📘 Project Scope
 
@@ -41,7 +41,7 @@ A friendly and intuitive interface for both gym staff and members, with potentia
 
 📂 Gym-Information-System/
 
-├── 📘 Fitness-Gym-File.pdf # Full report (requirements, pseudo-code, analysis).
+├── 📘 Fitness-Gym-File.pdf # Comprehensive report (including requirements, pseudocode, and analysis).
 
 ├── 🖼 UML Class Diagram.
 
